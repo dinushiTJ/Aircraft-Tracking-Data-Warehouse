@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Aircraft_Tracking_SSAS", "Aircraft_Tracking_SSAS\Aircraft_Tracking_SSAS.dwproj", "{89134E65-D15A-46D9-92B0-DE0EDBBF6A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89134E65-D15A-46D9-92B0-DE0EDBBF6A53}.Development|Default.ActiveCfg = Development
+		{89134E65-D15A-46D9-92B0-DE0EDBBF6A53}.Development|Default.Build.0 = Development
+		{89134E65-D15A-46D9-92B0-DE0EDBBF6A53}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
