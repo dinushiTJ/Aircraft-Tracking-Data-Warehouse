@@ -1,0 +1,25 @@
+registant_id	postcode	street	address	City	Country
+RID001	11235	Sheepshead Bay Rd	"1706  Sheepshead Bay Rd, Brooklyn, NY"	New York	US
+RID002	10022	East 54th Street	"55 East 54th Street, Manhattan, NY"	New York	US
+RID003	10307	amboy roaf	"7517 -19 amboy roaf, Staten Island, DC"	Washington DC	US
+RID005	10002	Henry Street  (aka 16-18 Jefferson Street)	"177 Henry Street  (aka 16-18 Jefferson Street), Manhattan, NY"	New York	US
+RID006	10022	2nd Ave	"1091 2nd Ave, Manhattan, NY"	New York	US
+RID010	11205	dekalb ave	"250 dekalb ave, Brooklyn, NY"	New York	US
+RID011	11372	83rd Street	"37-07  83rd Street, Queens,DC"	Washington DC	US
+RID012	10024	Columbus Avenue	"489  Columbus Avenue , Manhattan, NY"	New York	US
+RID017	10075	Lexington Avenue	"1129 Lexington Avenue , Manhattan, NY"	New York	US
+RID018	11209	5th avenue	"8002 5th avenue, Brooklyn, NY"	New York	US
+RID019	11222	Greenpoint Avenue	"31  Greenpoint Avenue, Brooklyn, NY"	New York	US
+RID022	11101	40th Avenue	"2519  40th Avenue , Queens, NY"	New York	US
+RID023	10038	Peck Slip	"21 Peck Slip, Manhattan, CA"	California	US
+RID024	11237	Starr Street	"247  Starr Street, Brooklyn, NY"	New York	US
+RID025	11105	Ditmars Blvd	"36-21  Ditmars Blvd, Queens, DC"	Washington DC	US
+RID026	11201	Jay Street	"68  Jay Street, Brooklyn, NY"	New York	US
+RID027	11249	North 8th Street	"101 North 8th Street, Brooklyn, NY"	New York	US
+RID028	10022	2nd ave	"1083 2nd ave, Manhattan, NY"	New York	US
+RID029	11249	Wythe Ave	"342  Wythe Ave, Brooklyn, NY"	New York	US
+RID030	10028	2nd Avenue	"1589  2nd Avenue, Manhattan, NY"	New York	US
+RID031	10023	68 STREET	"101 WEST 68 STREET, Manhattan, NY"	New York	US
+RID032	11204	65th street	"2007 65th street, Brooklyn, NY"	New York	US
+RID039	10012	Spring Street	"14 Spring Street, WC"	Wiscocin	US
+RID004	11217	Sixth Ave	"71 Sixth Ave, Brooklyn, NY"	New York	US
