@@ -99,6 +99,7 @@ BEGIN
 	BEGIN
 		UPDATE @DayOfWeek
 		SET MonthCount = 0
+
 		SET @CurrentMonth = DATEPART(MM, @CurrentDate)
 	END
 
@@ -109,6 +110,7 @@ BEGIN
 	BEGIN
 		UPDATE @DayOfWeek
 		SET QuarterCount = 0
+
 		SET @CurrentQuarter = DATEPART(QQ, @CurrentDate)
 	END
        
@@ -120,6 +122,7 @@ BEGIN
 	BEGIN
 		UPDATE @DayOfWeek
 		SET YearCount = 0
+
 		SET @CurrentYear = DATEPART(YY, @CurrentDate)
 	END
 	

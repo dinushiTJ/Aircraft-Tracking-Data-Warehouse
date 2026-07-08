@@ -1,2 +1,19 @@
 .DS_Store
-~$ *
+~$*
+
+# Build artifacts
+obj/
+bin/
+*.suo
+*.user
+*.ispac
+*.asdatabase
+*.configsettings
+*.deploymentoptions
+*.deploymenttargets
+
+# Visual Studio
+.vs/
+
+# Office temp files
+~$*

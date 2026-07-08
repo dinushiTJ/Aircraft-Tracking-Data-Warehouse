@@ -70,11 +70,10 @@ Interactive dashboard providing insights into surveillance aircraft operations:
 
 ```
 Aircraft-Tracking-Data-Warehouse/
-├── data/                    # Raw and processed datasets
-├── sql/                     # Database schemas and scripts
-├── etl/                     # Data transformation pipelines
-├── dashboards/              # Visualization and reporting
-└── docs/                    # Project documentation
+├── DataSources/             # Raw datasets, SQL schemas, and CSV files
+├── Document/                # Project documentation and reports
+├── ETL/                     # SSIS and SSAS data transformation pipelines
+└── Reports/                 # RDL report definitions
 ```
 
 ## 🔍 Use Cases

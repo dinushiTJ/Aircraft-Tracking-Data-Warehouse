@@ -3,11 +3,11 @@
   <Name>DS_Aircraft_Tracking_DW</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
   <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
-  <ConnectionString>Provider=SQLNCLI11.1;Data Source=DESKTOP-7C6K6F8;Integrated Security=SSPI;Initial Catalog=aircraft_tracking_data_warehouse</ConnectionString>
+  <ConnectionString>Provider=SQLNCLI11.1;Data Source=localhost;Integrated Security=SSPI;Initial Catalog=aircraft_tracking_data_warehouse</ConnectionString>
   <ConnectionStringSecurity>Unchanged</ConnectionStringSecurity>
   <ImpersonationInfo>
     <ImpersonationMode>ImpersonateAccount</ImpersonationMode>
-    <Account>DESKTOP-7C6K6F8\Dinushi Jayasinghe</Account>
+    <Account>localhost\User</Account>
     <ImpersonationInfoSecurity>PasswordRemoved</ImpersonationInfoSecurity>
   </ImpersonationInfo>
   <Timeout>PT0S</Timeout>
