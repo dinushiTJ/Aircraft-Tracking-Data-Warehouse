@@ -60,11 +60,11 @@ Interactive dashboard providing insights into surveillance aircraft operations:
 
 ## 🚀 Key Features
 
-- ✅ **Comprehensive ETL Pipeline** - Automated data extraction, transformation, and loading
-- ✅ **Dimensional Modeling** - Optimized star schema for analytical queries
-- ✅ **Real-time Analytics** - Interactive dashboards for data exploration
-- ✅ **Data Quality Controls** - Validation and cleansing processes
-- ✅ **Scalable Architecture** - Designed for large-scale flight tracking data
+-  **Comprehensive ETL Pipeline** - Automated data extraction, transformation, and loading
+-  **Dimensional Modeling** - Optimized star schema for analytical queries
+-  **Real-time Analytics** - Interactive dashboards for data exploration
+-  **Data Quality Controls** - Validation and cleansing processes
+-  **Scalable Architecture** - Designed for large-scale flight tracking data
 
 ## 📋 Project Structure
 
